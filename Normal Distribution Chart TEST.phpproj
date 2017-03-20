@@ -17,5 +17,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="index.html" />
+    <Content Include="JavaScript1.js" />
   </ItemGroup>
 </Project>
